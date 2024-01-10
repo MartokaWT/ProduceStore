@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ProduceStore\ProduceStore\bin\Debug\ProduceStore.exe.config
+C:\Users\User\source\repos\ProduceStore\ProduceStore\bin\Debug\ProduceStore.exe
+C:\Users\User\source\repos\ProduceStore\ProduceStore\bin\Debug\ProduceStore.pdb
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.Form1.resources
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.Properties.Resources.resources
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.exe
+C:\Users\User\source\repos\ProduceStore\ProduceStore\obj\Debug\ProduceStore.pdb

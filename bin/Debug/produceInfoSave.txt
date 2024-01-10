@@ -1,0 +1,4 @@
+﻿Banana,100,0.45,In stock
+Watermelon,100,1.80,In stock
+Tomato,0,0.30,In stock
+Orange,10,0.60,In stock
